@@ -20,7 +20,17 @@
             //Console.WriteLine($"Тебе {age} лет.");
             //Console.WriteLine($"Твой любимый язык программирования — {language}.");
 
-            
+            //Задание 3 
+            //double x = 5;
+            //double a = Convert.ToDouble(Console.ReadLine());
+            //double b = Convert.ToDouble(Console.ReadLine());
+            //double c = Convert.ToDouble(Console.ReadLine());
+
+            //double f = a * Math.Pow(x, 2) + b * x + c;
+
+            //Console.WriteLine(f);
+
+           
         }
     }
 }
